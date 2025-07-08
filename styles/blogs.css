@@ -1,0 +1,20 @@
+nav li {
+    list-style: none;
+    display: inline;
+    margin: 15px;
+}
+nav li:hover{
+    background-color: palegreen;
+}
+nav li a{
+    text-decoration: none;
+}
+h2{
+    background-color: tomato;
+}
+h5{
+    color: violet;
+}
+footer{
+    text-align: center;
+}
